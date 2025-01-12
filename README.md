@@ -1,4 +1,4 @@
-# Laravel 10 上傳圖片 Froala 整合
+# Laravel 11 上傳圖片 Froala 整合
 
 整合 Froala 上傳圖片讓編輯器可上傳檔案甚至直瀏覽伺器服中的檔案。
 
@@ -22,5 +22,5 @@ $ php artisan key:generate
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/S0wocaT.png)
+![](https://i.imgur.com/O0hOM4w.png)
 > HTML 編輯器的介面其實長得很像 Word，有各種按鈕讓你設定跟編輯文字的外觀
