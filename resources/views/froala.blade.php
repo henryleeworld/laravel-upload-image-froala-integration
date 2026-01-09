@@ -11,7 +11,7 @@
 
         <!-- Styles -->
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.3/css/bootstrap.min.css" integrity="sha512-jnSuA4Ss2PkkikSOLtYs8BlYIeeIK1h99ty4YfvRPAlzr377vr3CXDb7sb7eEEBYjDtcYj+AjBH3FLv5uSJuXg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/froala-editor/4.2.0/css/froala_editor.pkgd.min.css" integrity="sha512-vb9OAB9R1m1BomAb5bnu5J9eVv9TG0UYd6EYWGrUs0FGjoS++p3I4IOT2w2SYlGS2QW8KnhOpiQUbmQEe7xJAA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/froala-editor/4.4.0/css/froala_editor.pkgd.min.css" integrity="sha512-Wwzj0ePWXFdVtzK9o4CRoKHedL/d+W/k7alVa/uCldhDj8sqIGxjE106HXEbgUv5jDwTNcEJnNsqw9oUhfPPIQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
         <style>
             .fr-box.fr-basic .fr-element {
                min-height: 500px;
@@ -34,8 +34,8 @@
             </div>
         </div>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.3/js/bootstrap.min.js" integrity="sha512-ykZ1QQr0Jy/4ZkvKuqWn4iF3lqPZyij9iRv6sGqLRdTPkY69YX6+7wvVGmsdBbiIfN/8OdsI7HABjvEok6ZopQ==" crossorigin="anonymous" referrerpolicy="no-referrer" defer></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/froala-editor/4.2.0/js/froala_editor.pkgd.min.js" integrity="sha512-nMp71AS8oVu01hko7V++8NstoFYLwk7MjAkPUz0EJl8+rOio0yrpT4bXamtKHfDiJPpzMG3EltXtYfN57gNIkg==" crossorigin="anonymous" referrerpolicy="no-referrer" defer></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/froala-editor/4.2.0/js/languages/zh_tw.min.js" integrity="sha512-jGhvRBJ2uepK1idfbWV+3fOSmyvfTLBcTwJP7TrBAvprEQv8v3AztnKwqnRkf/FuDbDGbKPxI4ASZYt/BONI3A==" crossorigin="anonymous" referrerpolicy="no-referrer" defer></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/froala-editor/4.4.0/js/froala_editor.pkgd.min.js" integrity="sha512-i09bneo70Cep9LpgwV7HlZ0J+VcAqZCKtBE5iqNdb9WNTjLoafpymTNlqIMDiyCzFEjO6c0X66T1XJjYsjPBmA==" crossorigin="anonymous" referrerpolicy="no-referrer" defer></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/froala-editor/4.4.0/js/languages/zh_tw.min.js" integrity="sha512-jGhvRBJ2uepK1idfbWV+3fOSmyvfTLBcTwJP7TrBAvprEQv8v3AztnKwqnRkf/FuDbDGbKPxI4ASZYt/BONI3A==" crossorigin="anonymous" referrerpolicy="no-referrer" defer></script>
         <script type="module">
             new FroalaEditor('#editor', {
                 // Allow to upload PNG and JPG.
